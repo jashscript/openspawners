@@ -8,7 +8,7 @@ OpenSpawners is a minecraft plugin for 1.16.5 that adds to the game custom spawn
 
 Just download the latest [version](https://github.com/jashscript/openspawners/releases/download/1.0-SNAPSHOT/openSpawners-1.0-SNAPSHOT.jar).
 
-For more details about how the developing is going see the releases page [Realeses](https://github.com/jashscript/openspawners/releases/tag/1.0-SNAPSHOT).
+For more details about how the developing is going see the releases page [Releases](https://github.com/jashscript/openspawners/releases/tag/1.0-SNAPSHOT).
 
 ## Usage
 ```
