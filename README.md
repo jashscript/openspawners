@@ -35,5 +35,7 @@ Actually i made all the code by myself [jash](https://github.com/jashscript) ðŸ˜
 
 Thanks [0sss](https://github.com/0ssss) for the readme lol
 
+Anyone can help at this plugin, that's why i made it open src. 
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
