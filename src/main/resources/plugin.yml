@@ -1,0 +1,13 @@
+name: OpenSpawners
+version: ${project.version}
+main: me.jashscript.openspawners.OSMain
+api-version: 1.16
+depend: [ Vault ]
+authors: [ jashscript ]
+description: A plugin about spawners, and it's open.
+website: https://github.com/jashscript
+commands:
+  giveos:
+    permission: giveos
+  openspawners:
+    permission: openspawners

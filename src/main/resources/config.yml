@@ -1,0 +1,26 @@
+debugmode: false
+need-silktouch: false
+only-owner-can-break: true
+max-spawner-stack: 64
+non-player-kill-stack: true
+max-mob-stack: 64
+world-whitelist:
+  - "world"
+item-format:
+  - "&l&f%amount%x %type% Spawner T%tier%"
+  - "&l&9%amount%x %type% Spawner T%tier%"
+  - "&l&2%amount%x %type% Spawner T%tier%"
+  - "&l&e%amount%x %type% Spawner T%tier%"
+  - "&l&5%amount%x %type% Spawner T%tier%"
+mob-format:
+  - "&l&f%amount%x %type% T%tier%"
+  - "&l&9%amount%x %type% T%tier%"
+  - "&l&2%amount%x %type% T%tier%"
+  - "&l&e%amount%x %type% T%tier%"
+  - "&l&5%amount%x %type% T%tier%"
+pillager-lore:
+  - "&l&atest lore"
+  - "&ejust testing!"
+magma_cube-lore:
+  - "&l&awow a magma cube!"
+  - "&ejust testing!"
